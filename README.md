@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Riccardo Antonelli and I am an App, Web and backend developer. I am currently studiyng and I'm part of @NaoNexus.
+I'm Riccardo Antonelli and I am an App, Web and backend developer. I am currently studiyng at Politecnico di Milano.
 - 🔭 I’m currently working on my personal website and a school management app
 - 🌱 I’m currently learning web development with *svelte*
 
